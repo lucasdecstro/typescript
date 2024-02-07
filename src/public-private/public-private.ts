@@ -17,6 +17,10 @@ export class Empresa {
       console.log(colaborador);
     }
   }
+
+  // public getNome(): string {
+  //   return this.nome;
+  // }
 }
 
 export class Colaborador {
