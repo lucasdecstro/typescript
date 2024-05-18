@@ -10,7 +10,7 @@ body3.style.background = 'red';
 
 // HTMLElement
 const input = document.querySelector('.input') as HTMLInputElement;
-input.value = 'Qaulquer coisa';
+input.value = 'Qualquer coisa';
 input.focus();
 
 /* Não recomendado */
